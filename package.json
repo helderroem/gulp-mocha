@@ -3,7 +3,7 @@
   "version": "0.5.1",
   "description": "Run Mocha tests",
   "license": "MIT",
-  "repository": "helderroem/gulp-mocha",
+  "repository": "git+https://git@github.com/helderroem/gulp-mocha.git",
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
